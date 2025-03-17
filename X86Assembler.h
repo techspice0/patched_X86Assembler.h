@@ -26,7 +26,7 @@
 
 #include "codeflinger/tinyutils/smartpointer.h"
 #include "codeflinger/CodeCache.h"
-#include "enc_wrapper.h"
+#include "codeflinger/x86/libenc/enc_wrapper.h"
 
 namespace android {
 
